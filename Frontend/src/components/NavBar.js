@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react'
 import { Navbar, Nav, Container } from 'react-bootstrap'
-import logo from '../assets/img/logo.svg'
+import logo from '../assets/img/logo.png'
 import navIcon1 from '../assets/img/nav-icon1.svg'
 import navIcon2 from '../assets/img/nav-icon2.svg'
 import navIcon3 from '../assets/img/nav-icon3.svg'
+import navIcon4 from '../assets/img/behance.png'
 
 export const NavBar = () => {
   const [activeLink, setActiveLink] = useState('home')
@@ -49,6 +50,7 @@ export const NavBar = () => {
               <a href='https://www.linkedin.com/in/iskander-belhouchet-8370b9191/'><img src={navIcon1} alt='' /></a>
               <a href='https://github.com/iskanderbelhouchet'><img src={navIcon2} alt='' /></a>
               <a href='https://www.instagram.com/iskanderdev/'><img src={navIcon3} alt='' /></a>
+              <a href='https://www.behance.net/iskandebelhouchet'><img src={navIcon4} alt='Icon' /></a>
             </div>
             <button><a className='vvd' href='https://www.upwork.com/freelancers/~01f40338e2cfa1caf3'><span className='text-white'>Let’s Connect</span></a></button>
           </span>

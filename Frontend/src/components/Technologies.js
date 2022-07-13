@@ -42,14 +42,14 @@ export const Technologies = () => {
   }
 
   return (
-    <section className='skill' id='skills'>
+    <section className='skill' id='technologies'>
       <div className='container'>
         <div className='row'>
-          <div className='col-12'>
+          <div className='col-md-12 col-lg-12 position-relative'>
             <div className=''>
               <div id='tech'>
                 <h2 style={{ textAlign: 'center' }}>Technologies</h2>
-                <div responsive={responsive} className='grid'>
+                <div responsive={responsive} className='grid '>
                   <div className='item'>
                     <img src={html} alt='img' width='20' height='15' />
                     <h5>HTML</h5>
