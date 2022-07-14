@@ -2,7 +2,7 @@
 
 This project it's my personal portfolio .
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="[https://github.com/iskanderbelhouchet/personal-portfolio/blob/main/public/portfolio.png]">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="[https://ibb.co/G0szNKz]">
 
 Built using:
 
