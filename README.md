@@ -2,7 +2,7 @@
 
 This project it's my personal portfolio .
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="[https://ibb.co/G0szNKz]">
+<a href="https://ibb.co/G0szNKz"><img src="https://i.ibb.co/kx3NvRN/React-App-7-14-2022-2-55-40-PM.png" alt="React-App-7-14-2022-2-55-40-PM" border="0" width="1266" /></a>
 
 Built using:
 
