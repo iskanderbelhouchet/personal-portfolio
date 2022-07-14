@@ -2,7 +2,7 @@
 
 This project it's my personal portfolio .
 
-<a href="https://ibb.co/G0szNKz"><img src="https://i.ibb.co/G0szNKz/React-App-7-14-2022-2-55-40-PM.png" alt="React-App-7-14-2022-2-55-40-PM" border="0" width="1266"/></a>
+<a href="https://ibb.co/5v5FRWb"><img src="https://i.ibb.co/vmJYjx0/portfolio.png" alt="portfolio" border="0" /></a>
 
 Built using:
 
