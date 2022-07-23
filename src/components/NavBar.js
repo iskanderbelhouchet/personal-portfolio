@@ -51,7 +51,7 @@ export const NavBar = () => {
               <a href='https://www.instagram.com/iskanderdev/'><img src={navIcon3} alt='' /></a>
               <a href='https://www.behance.net/iskandebelhouchet'><img src={navIcon4} alt='Icon' /></a>
             </div>
-            <button><a className='vvd' href='https://www.upwork.com/freelancers/~01f40338e2cfa1caf3'><span className='text-white'>Let’s Connect</span></a></button>
+            <button><a className='vvd' href='https://www.freelancer.com/u/iskanderskon'><span className='text-white'>Let’s Connect</span></a></button>
           </span>
         </Navbar.Collapse>
       </Container>
