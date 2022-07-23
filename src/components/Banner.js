@@ -60,7 +60,7 @@ export const Banner = () => {
                   <p>I am a Mern Stack Developer & UI/UX Designer , With +3 years of experience.
                     I have a good eye and creative mind with solving UI problems and building modern websites and Mobile App.
                   </p>
-                  <button><a href='https://www.upwork.com/freelancers/~01f40338e2cfa1caf3'><span className='text-white'>Let’s Connect</span></a> <ArrowRightCircle size={25} /></button>
+                  <button><a href='https://www.freelancer.com/u/iskanderskon'><span className='text-white'>Let’s Connect</span></a> <ArrowRightCircle size={25} /></button>
                 </div>}
             </TrackVisibility>
           </Col>
